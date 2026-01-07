@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hunde-del
+- 👋 Hi, I’m @Hunduma Aboma
 - 👀 I’m interested in ...web-devlopment and cyber security 
 - 🌱 I’m currently learning ... software engineering 
 - 💞️ I’m looking to collaborate on ...web development 
